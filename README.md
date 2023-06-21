@@ -100,23 +100,3 @@ $ yarn dev
 
 ## 📘 Licença
 Este projecto usa a  [MIT License](LICENSE).
-****
-<h1 align="center">
-👨🏽‍🏫 
-<br>
-Desenvolvido por
-<br>
- Isaias Nhantumbo Junior
-</h1>
-</p>
-<h1 align="center"> 🤝 &nbsp;Vamos nos conectar ?👨 </h1>
-
-<p align="center">
-<a href="https://www.youtube.com/channel/UCOyeYkH0MwJ6RrXTcEFFdAQ?view_as=subscriber"><img alt="Youtube" src="https://img.shields.io/badge/Channel-Isaias_Nhantumbo-blue?style=flat-square&logo=youtube"></a>
-<a href="https://www.linkedin.com/in/isaias-nhantumbo-junior-733bb619b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Isaias%20Nhantumbo%20Junior-green?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/isaias_nhantumbo/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-isaiasnhantumbo_-blue??style=for-the-badge&logo=instagram"></a>
-</p>
-
-
-
-
