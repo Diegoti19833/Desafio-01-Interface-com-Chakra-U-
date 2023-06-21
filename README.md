@@ -19,10 +19,6 @@ O <span>Worldtrip</span> é aplicativo que mostra os principais destinos turisti
 <img src ="./.github/print2.png" > 
 </p>
 
-<h1 align="center"> 
-
-<a href="https://desafio-ignite-reactjs-interface-com-chakra-ui.vercel.app">Acessar demonstração</a>
-</h1>
 
 
 ## 🛠 Tecnologias usadas
