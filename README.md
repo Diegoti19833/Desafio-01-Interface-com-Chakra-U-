@@ -10,18 +10,7 @@
 <img alt="GitHub language count" src="https://img.shields.io/github/license/isaiasnhantumbo/desafio-ignite-reactjs-interface-com-chakra-ui">
 </h2>
 <br>
-<p align="center">
-<a href="#-tecnologias-usadas">Tecnologias usadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="#-desafios-do-projecto">Desafios do projecto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="#-pré-requisitos">Pré-requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="#-como-rodar-o-projecto">Como rodar o projecto</a>
-</p>
-<p align="center">
-    <img src ="./.github/print.png" > 
-    
-</p>
 
-<p align="center">
 O <span>Worldtrip</span> é aplicativo que mostra os principais destinos turisticos de cada continente que foi construindo no desafio do Bootcamp Ignite da Rockeseat na trilha Reactjs.
 </p>
 
